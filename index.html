@@ -1,0 +1,79 @@
+<!DOCTYPE html><!-- 给浏览器解析的，这个文档是html -->
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html;" charset="utf-8" />
+    <meta name="description" content="关键字" />
+    <meta name="keyword" content="描述，80字以内" />
+    <title>跑步活动报名表</title>
+    <style type="text/css">
+    	form {width:720px}
+    	fieldset{border-color:orange}
+    	legend,p {fon-weight:bold}
+    	img {float:left;margin:10px;height:240px}
+    	.aligh_top {vertical-align:top}
+		</style>
+    </head>
+<body>
+
+	<img src="/images/1 (1).jpg">
+	<img src="/images/2.jpg">
+	<img src="/images/3.jpg">
+	<img src="/images/4.jpg">
+	<img src="/images/5.jpg">
+	<img src="/images/6.jpg">
+	<img src="/images/7.jpg">
+	<img src="/images/8.jpg">
+	<img src="/images/9.jpg">
+	<img src="/images/10.jpg">
+	<img src="/images/11.jpg">
+	<img src="/images/12.jpg">
+	<img src="/images/13.jpg">
+	<img src="/images/14.jpg">
+	<img src="/images/15.jpg">
+	<img src="/images/16.jpg">
+	<img src="/images/17.jpg">
+	<img src="/images/18.jpg">
+	<form>
+		<fieldset>
+			<legend>基本数据（*为必填数据）</legend>
+			*姓名：<input name="mail" type="text" required><br>
+			*性别：<input name="gender" type="radio" value="male" required> 男
+			<input name="gender" type="radio" value="female" required>女 <br>
+			<span class="aligh_top"* 通信地址: </span>
+			<textarea name="addr" rows="2" cols="40" required></textarea> <br>
+			*E-MailL <input name="email" type="email" required> <br>
+			*联系电话：<input name="tel" type="tel" required>
+
+		</fieldset>
+		<fieldset>
+			<legend>参加项目</legend>
+			<input name="length" type="radio" value="7">7KM<br>
+			<input name="length" type="radio" value="21">21KM<br>
+			<input name="length" type="radio" value="42">42KM<br>
+			
+			
+		</fieldset>
+		<p>
+			选择活动T-shirt赠品尺寸：
+			<select name="tshirt_size">
+				<option> XXL</option>
+				<option>XL</option>
+				<option>L</option>
+				<option>M</option>
+				<option>S</option>
+			</select>
+		</p>
+	
+	<p>
+		<fieldset>
+			<legend>紧急联系人</legend>
+			紧急联系人姓名： <input name="emer_contact" type="text"> <br>
+			紧急联系人电话： <input name="emer_tel"type="text">
+		</fieldset>
+	</p>
+	<input type="checkbox" name="sendnotice">要收到本公司的其他活动信息。
+	<input type="submit" value="发送">
+	<input type="reset" value="清除">
+	</form>
+</body>
+</html>
