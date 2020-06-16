@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c883193e-a648-40e3-a7f7-612921108524" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1.jpg" afterPath="$PROJECT_DIR$/page1/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/10.jpg" afterPath="$PROJECT_DIR$/page1/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/11.jpg" afterPath="$PROJECT_DIR$/page1/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/12.jpg" afterPath="$PROJECT_DIR$/page1/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/13.jpg" afterPath="$PROJECT_DIR$/page1/13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/14.jpg" afterPath="$PROJECT_DIR$/page1/14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/15.jpg" afterPath="$PROJECT_DIR$/page1/15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/16.jpg" afterPath="$PROJECT_DIR$/page1/16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/17.jpg" afterPath="$PROJECT_DIR$/page1/17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/18.jpg" afterPath="$PROJECT_DIR$/page1/18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/19.jpg" afterPath="$PROJECT_DIR$/page1/19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2.jpg" afterPath="$PROJECT_DIR$/page1/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3.jpg" afterPath="$PROJECT_DIR$/page1/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4.jpg" afterPath="$PROJECT_DIR$/page1/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5.jpg" afterPath="$PROJECT_DIR$/page1/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6.jpg" afterPath="$PROJECT_DIR$/page1/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7.jpg" afterPath="$PROJECT_DIR$/page1/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/8.jpg" afterPath="$PROJECT_DIR$/page1/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/9.jpg" afterPath="$PROJECT_DIR$/page1/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/page1/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/page1/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="174" />
+    <option name="y" value="115" />
+    <option name="width" value="1257" />
+    <option name="height" value="871" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="page1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mypc\PycharmProjects\web\page1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c883193e-a648-40e3-a7f7-612921108524" name="Default" comment="" />
+      <created>1592269175967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592269175967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="174" y="115" width="1257" height="871" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
